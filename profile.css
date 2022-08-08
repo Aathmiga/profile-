@@ -1,0 +1,254 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    height: 650px;
+    width: 100%;
+    background-image: url("assets/images/black.jpg");
+
+}
+.pro img{
+    height: 120px;
+    border-radius: 50%;
+    margin-left: 90px;
+    margin-top: 250px;
+    border: 1px solid goldenrod;
+}
+.head h1{
+    color: azure;
+    margin-top:260px;
+    margin-left: 50px;
+    font-family: 'Cookie', cursive;
+    font-size: 50px;
+}
+.head p{
+    color: rgb(180, 188, 202);
+    margin-left: 100px;
+}
+.pro{
+    display: flex;
+}
+.list{
+    display: flex;
+    list-style: none;
+    float: right;
+    
+}
+.list li{
+    color: rgb(226, 220, 213);
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 10px;
+    float: right;
+    font-size: 23px;
+    
+}
+.list  :hover{
+color: azure;
+}
+.list a{
+    
+    text-decoration: none;
+}
+.soci-logo{
+    height:35px;
+    padding-left: 40px;
+    padding-top: 20px;
+
+}
+.social{
+    float:left;
+    margin-left: 400px;
+    margin-bottom: 40px;
+    
+   }
+   a{
+       text-decoration: none;
+   }
+   .image img{
+       
+       height: 280px;
+       margin-left: 60px;
+       padding-top: 30px;
+       
+       
+   }
+   .About h1{
+       padding-top: 40px;
+       text-align: center;
+       font-family: 'Rubik', sans-serif;
+   }
+   .about{
+       display: flex;
+   }
+   .name h3{
+       padding-top: 40px;
+       padding-left: 40px;
+       font-size: 25px;
+       color: crimson;
+   }
+   .name p{
+       padding-top: 20px;
+       font-size: 30px;
+       padding-left: 30px;
+       padding-right: 40px;
+       font-family: 'Karla', sans-serif;
+
+   }
+   .title1{
+       padding-top: 40px;
+       text-align: center;
+       padding-bottom: 25px;
+       font-family: 'Rubik', sans-serif;
+
+   }
+   .col-img img{
+       border-radius: 10px;
+       height: 150px;
+       float: right;
+       margin-right: 420px;
+       border: 1px solid goldenrod;
+       
+       
+   }
+   .des{
+       text-align: right;
+       padding-right: 700px;
+       padding-bottom: 50px;
+   }
+   .des p{
+       font-size: 20px;
+       
+   }
+   .des h3{
+       padding-top: 20px;
+       font-size: 23px;
+       color: crimson;
+   }
+   .hr-school img{
+    border-radius: 10px;
+    height: 150px;
+margin-left: 410px;
+    
+    border: 1px solid goldenrod;
+    
+    
+}
+.higher{
+    display: flex;
+}
+.des-hr{
+    padding-left: 70px;
+    padding-top: 20px;
+}
+.des-hr h3{
+    font-size: 23px;
+    color: crimson;
+
+}
+.des-hr p{
+    font-size: 20px;
+}
+.sch-img img{
+    border-radius: 10px;
+    height: 150px;
+    float: right;
+    margin-right: 390px;
+    border: 1px solid goldenrod;
+    
+    
+}
+.des-sch{
+    text-align: right;
+    padding-right: 700px;
+    padding-bottom: 50px;
+}
+.des-sch p{
+    font-size: 20px;
+    
+}
+.des-sch h3{
+    padding-top: 30px;
+    font-size: 23px;
+    color: crimson;
+
+}
+.skill h1{
+text-align: center;
+padding-top: 30PX;
+font-family: 'Rubik', sans-serif;
+
+}
+.img-skill img{
+    height: 150px;
+    
+    margin-left: 100px;
+    border:1px white;
+    box-shadow: 0px 0px 10px rgb(182, 204, 182);
+    margin-top: 40px;
+}
+.contact{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    font-family: 'Rubik', sans-serif;
+
+}
+.forms{
+      
+    left:15%;
+right:90%;
+
+padding-bottom: 30px;
+position: absolute;
+display: flex;
+
+}
+.input-field{
+    width:140px;
+    height:20px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-right: 170px;
+    border-radius: 14px;
+    
+  
+}
+.address{
+    margin-left: 700px;
+    margin-top: 50px;
+    display: flex;
+
+}
+.address b{
+    font-size: 24px;
+    color: crimson;
+
+}
+.address pre{
+    font-size: 20px;
+}
+.address iframe{
+    height: 250px;
+    width:250px;
+    margin-top: -40px;
+    margin-left: 10px;
+    margin-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
